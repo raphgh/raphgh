@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rghan086@uottawa.ca**
 
-- ⚡ Fun fact **I speak 3 languages fluently.**
+- ⚡ Fun fact, **I speak 3 languages fluently.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
