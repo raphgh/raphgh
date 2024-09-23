@@ -9,8 +9,6 @@
 
 - 📚 Next, I want to learn **C**
 
-- 🤝 In school, I am **developing an android application** 
-
 - 📫 To reach me, email me at **rghan086@uottawa.ca**
 
 - ⚡ Fun fact, **I speak 3 languages fluently.**
