@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **coding my own personal website** and **designing a website** for a local organization
 
-- 🌱 I’m currently further improving my skills in **HTML, CSS, and UX/UI**
+- 🌱 I’m currently further improving my skills in **HTML, CSS, and UX/UI**, and joining hackathons
 
 - 📚 Next, I want to learn **C**
 
 - 📫 To reach me, email me at **rghan086@uottawa.ca**
 
-- ⚡ Fun fact, **I speak 3 languages fluently.**
+- ⚡ Fun fact, **I play guitar and speak 3 languages fluently.**
 
 <h3 align="left">Find me on LinkedIn and LeetCode:</h3>
 <p align="left">
