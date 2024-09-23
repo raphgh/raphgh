@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **coding my own personal website**
 
-- 👩‍💻 I also occasionally **design websites for others**
+- 👩‍💻 I also occasionally **design websites for others**, and am currently working on one for a local organization
 
 - 🌱 I’m currently further improving my skills in **HTML, CSS, and UX/UI**
 
 - 📚 Next, I want to learn **C**
 
-- 🤝 In school, I am **developing an android application**
+- 🤝 In school, I am **developing an android application** with a team
 
-- 📫 How to reach me **rghan086@uottawa.ca**
+- 📫 To reach me, email me at **rghan086@uottawa.ca**
 
 - ⚡ Fun fact, **I speak 3 languages fluently.**
 
