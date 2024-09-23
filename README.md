@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact, **I speak 3 languages fluently.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on LinkedIn and LeetCode:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raphaelle-ghanem-141320254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphaelle-ghanem-141320254" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raphcodes13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raphcodes13" height="30" width="40" /></a>
