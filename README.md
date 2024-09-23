@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **coding my own personal website**
 
-- 👩‍💻 I also occasionally **design websites for others**, and am currently working on one for a local organization
+- 👩‍💻 I also enjoy **designing websites for others** and working on projects with a team
 
 - 🌱 I’m currently further improving my skills in **HTML, CSS, and UX/UI**
 
 - 📚 Next, I want to learn **C**
 
-- 🤝 In school, I am **developing an android application** with a team
+- 🤝 In school, I am **developing an android application** 
 
 - 📫 To reach me, email me at **rghan086@uottawa.ca**
 
