@@ -9,7 +9,7 @@
 
 - 📫 To reach me, email me at **rghan086@uottawa.ca**
 
-- ⚡ Fun fact, **I play guitar and speak 3 languages fluently.**
+- ⚡ Fun fact, **I speak 3 languages fluently.**
 
 <h3 align="left">Find me on LinkedIn and LeetCode:</h3>
 <p align="left">
