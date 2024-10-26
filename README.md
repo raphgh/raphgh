@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Raphaelle</h1>
 <h3 align="center">A passionate software engineering student from uOttawa.</h3>
 
-- 🔭 I’m currently **coding my own personal website** and **co-designing a website** for the Ottawa Basketball Network.
+- 🔭 I’m currently **working on a personal website** and **co-designing a website** for the Ottawa Basketball Network.
 
 - 🌱 I’m currently working on improving my skills in **HTML, CSS, and UX/UI**.
 
