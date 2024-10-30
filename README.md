@@ -7,7 +7,7 @@
 
 - 📚 i plan on learning **C** :)
 
-- 📫 feel free to reach me through email at **ghanemraphaelle@gmail.com !**
+- 📫 feel free to reach me through email at **rghan086@uottawa.ca !**
 
 - ⚡ i also **speak 3 languages fluently**
 
