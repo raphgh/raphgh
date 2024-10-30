@@ -1,15 +1,15 @@
-<h1 align="center">Hey! I'm Raphaelle</h1>
-<h3 align="center">A passionate software engineering student from uOttawa.</h3>
+<h1 align="center">hey! i'm raphaelle</h1>
+<h3 align="center">a passionate software engineering student from uOttawa.</h3>
 
-- 🔭 I’m currently **working on a personal website** and **co-designing a website** for the Ottawa Basketball Network.
+- 🌱 i’m actively improving my skills in **HTML, CSS, and UX/UI**.
 
-- 🌱 I’m currently working on improving my skills in **HTML, CSS, and UX/UI**.
+- 🔭 i’m currently **working on a personal website** and **co-designing a website** for the Ottawa Basketball Network.
 
-- 📚 Next, I want to learn **C**
+- 📚 i plan on learning **C** :)
 
-- 📫 To reach me, email me at **rghan086@uottawa.ca**
+- 📫 ro reach me, email me at **rghan086@uottawa.ca**
 
-- ⚡ Fun fact, **I speak 3 languages fluently.**
+- ⚡ i also **speak 3 languages fluently**
 
 <h3 align="left">Find me on LinkedIn and LeetCode:</h3>
 <p align="left">
