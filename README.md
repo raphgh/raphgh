@@ -1,5 +1,5 @@
 <h1 align="center">hey! i'm raphaelle</h1>
-<h3 align="center">a driven software engineering student from uOttawa.</h3>
+<h3 align="center">a software engineering student from uOttawa.</h3>
 
 - 🌱 actively improving my skills in **HTML, CSS, and UX/UI**.
 
