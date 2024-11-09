@@ -3,7 +3,7 @@
 
 - 🌱 actively improving my skills in **HTML, CSS, and UX/UI**.
 
-- 🔭 currently **working on a personal website** and **co-designing a website** for the Ottawa Basketball Network.
+- 🔭 currently **working on an android application ** and **co-designing a website** for the Ottawa Basketball Network.
 
 - 📚 i plan on learning **C** :)
 
