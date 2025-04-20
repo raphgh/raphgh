@@ -5,7 +5,7 @@
 
 - 🔭 currently **doing a coop at CICS** and **co-designing a website** for the Ottawa Basketball Network.
 
-- 📚 i plan on learning **C** :)
+- 📚 i plan on learning **Swift** :)
 
 - 📫 feel free to reach me through email at **rghan086@uottawa.ca !**
 
