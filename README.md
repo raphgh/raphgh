@@ -1,7 +1,7 @@
 <h1 align="center">hey! i'm raphaelle</h1>
 <h3 align="center">a software engineering student from uOttawa.</h3>
 
-- 🌱 currently improving my skills in **Swift, SwiftUI, and iOs development**.
+- 🌱 currently improving my skills in **Swift, SwiftUI, and iOS development**.
 
 - 🔭 recently **did a coop at CICS** and worked with a lot of C#, JS, SQL, HTML, CSS.
 
