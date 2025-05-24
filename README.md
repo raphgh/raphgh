@@ -1,15 +1,13 @@
 <h1 align="center">hey! i'm raphaelle</h1>
 <h3 align="center">a software engineering student from uOttawa.</h3>
 
-- 🌱 currently improving my skills in **Swift, SwiftUI, and iOS development**.
+- 🌱 currently improving my skills in **JS and Web/iOS development**.
 
 - 🔭 recently **did a coop at CICS** and worked with a lot of C#, JS, SQL, HTML, CSS.
 
 - 📚 in the future, i plan on learning **C** :)
 
 - 📫 feel free to reach me through email at **rghan086@uottawa.ca !**
-
-- ⚡ fun fact, i **love music and guitar**
 
 <h3 align="left">Find me on LinkedIn and LeetCode:</h3>
 <p align="left">
