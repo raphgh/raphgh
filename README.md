@@ -5,11 +5,9 @@
 
 - 🔭 recently **did a coop at CICS** and worked with a lot of C#, JS, SQL, HTML, CSS.
 
-- 📚 in the future, i plan on learning **C** :)
+- 📫 email me at **rghan086@uottawa.ca !**
 
-- 📫 feel free to reach me through email at **rghan086@uottawa.ca !**
-
-<h3 align="left">Find me on LinkedIn and LeetCode:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raphaelle-ghanem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphaelle-ghanem-141320254" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raphcodes13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raphcodes13" height="30" width="40" /></a>
