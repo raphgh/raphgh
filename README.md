@@ -3,8 +3,8 @@
 
 - 🌱 currently improving my skills in **JS and Web/iOS development**.
 
-- 🔭 recently **did a coop at CICS** and worked with a lot of C#, JS, SQL, HTML, CSS.
-
+- 🔭 previously ** at CICS** and worked with a lot of C#, JS, SQL, HTML, CSS.
+  
 - 📫 email me at **rghan086@uottawa.ca !**
 
 <h3 align="left">Find me on:</h3>
