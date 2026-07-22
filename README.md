@@ -1,9 +1,9 @@
 <h1 align="center">hey! i'm raphaelle</h1>
 <h3 align="center">a software engineering student from uOttawa.</h3>
 
-- 👾 I worked at **Nokia** and **CICS** and with a mix of Java, REST, C#, JS, SQL, HTML/CSS.
+- 👾 I've worked at **Nokia x2** and **CICS** and with a mix of Java, REST, C#, JS, SQL, HTML/CSS.
 - 🌱 I'm currently working on a project with several new tools, and look to improve in **JS and Web/iOS development**.
-- 📫 email me at **rghan086@uottawa.ca !**
+- 📫 **rghan086@uottawa.ca**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
