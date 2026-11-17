@@ -1,7 +1,9 @@
 <h1 align="center">hey! i'm raphaelle</h1>
 <h3 align="center">i'm a software engineering student from uOttawa.</h3>
 
-check out my website :) <a href="https://rghanem.vercel.app/"</a>
+check out my website :) 
+https://rghanem.vercel.app/
+
 📫 feel free to reach me at **rghan086@uottawa.ca**
 
 <h3 align="left">Find me on:</h3>
